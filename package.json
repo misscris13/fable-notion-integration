@@ -1,0 +1,28 @@
+{
+  "name": "fable-notion-integration",
+  "version": "1.0.0",
+  "description": "Small Angular 19 app that overkills a simple Fable (book tracking) and Notion integration (unidirectional, Fable -> Notion) using RxJS and NgRx.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misscris13/fable-notion-integration.git"
+  },
+  "keywords": [
+    "fable",
+    "notion",
+    "book",
+    "tracking",
+    "integration",
+    "notion",
+    "api"
+  ],
+  "author": "JustK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misscris13/fable-notion-integration/issues"
+  },
+  "homepage": "https://github.com/misscris13/fable-notion-integration#readme"
+}
