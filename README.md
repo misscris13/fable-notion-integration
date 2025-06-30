@@ -1,2 +1,11 @@
-# fable-notion-integration
-Small Angular 19 app that overkills a simple Fable (book tracking) and Notion integration (unidirectional, Fable -> Notion) using RxJS and NgRx.
+# What's this?
+Small Angular 19 app that overkills automatized Notion Integrations using RxJS and NgRx.
+
+# What works as of now?
+Nothing! :)
+
+# What's on the backlog?
+- Fable (book tracking) integration, unidirectional (Fable -> Notion)
+- Google Calendar integration, bidirectional
+- Hevy (workout) integration, unidirectional (Hevy -> Notion)
+- Notion Template
